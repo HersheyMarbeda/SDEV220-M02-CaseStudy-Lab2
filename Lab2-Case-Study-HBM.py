@@ -27,3 +27,16 @@ while True:
         print(f"\n{student_first_name} {student_last_name} has made the Honor Roll!")
     elif student_GPA < 3.25:
         print(f"\n{student_first_name} {student_last_name} has not qualified for the Dean's List or the Honor Roll.\n")
+
+# Example Code for the Student Qualification Program with fix inputs
+# Feel free to uncomment the while loop above to test the program with user inputs
+# student_last_name = "Marbeda"
+# student_first_name = "Hershey"
+# student_GPA = 3.8
+
+# if student_GPA >= 3.5:
+#         print(f"\n{student_first_name} {student_last_name} has made the Dean's List!")
+# elif student_GPA >= 3.25:
+#         print(f"\n{student_first_name} {student_last_name} has made the Honor Roll!")
+# elif student_GPA < 3.25:
+#         print(f"\n{student_first_name} {student_last_name} has not qualified for the Dean's List or the Honor Roll.\n")
